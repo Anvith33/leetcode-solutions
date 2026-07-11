@@ -130,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0482-license-key-formatting](https://github.com/Anvith33/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Anvith33/leetcode-solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
