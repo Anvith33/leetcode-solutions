@@ -74,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anvith33/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvith33/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
