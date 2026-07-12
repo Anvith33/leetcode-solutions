@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anvith33/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Anvith33/leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
