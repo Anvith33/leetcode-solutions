@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-buildings-with-an-ocean-view](https://github.com/Anvith33/leetcode-solutions/tree/master/1762-buildings-with-an-ocean-view) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anvith33/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anvith33/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Anvith33/leetcode-solutions/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anvith33/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Anvith33/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anvith33/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Anvith33/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anvith33/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Anvith33/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Indexed Tree
 |  |
