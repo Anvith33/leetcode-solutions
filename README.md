@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anvith33/leetcode-solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Anvith33/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Anvith33/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Anvith33/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anvith33/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Anvith33/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Anvith33/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anvith33/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/Anvith33/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
