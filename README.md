@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anvith33/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anvith33/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0636-exclusive-time-of-functions](https://github.com/Anvith33/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Anvith33/leetcode-solutions/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anvith33/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -204,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anvith33/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0932-beautiful-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -230,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anvith33/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
