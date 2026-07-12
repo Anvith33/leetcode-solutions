@@ -1,5 +1,5 @@
 
-// Sync test
+
 class Solution {
     public int[] findErrorNums(int[]nums){
         int[] freq=new int[nums.length+1];
