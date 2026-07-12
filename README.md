@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/Anvith33/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anvith33/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anvith33/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
@@ -303,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Anvith33/leetcode-solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Anvith33/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
