@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Anvith33/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Anvith33/leetcode-solutions/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Anvith33/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anvith33/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anvith33/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Anvith33/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Anvith33/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Anvith33/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Anvith33/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Anvith33/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Anvith33/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -350,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
