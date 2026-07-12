@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0932-beautiful-array) |
+| [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/Anvith33/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1063-number-of-valid-subarrays](https://github.com/Anvith33/leetcode-solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1200-minimum-absolute-difference](https://github.com/Anvith33/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Anvith33/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anvith33/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Anvith33/leetcode-solutions/tree/master/0831-masking-personal-information) |
+| [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anvith33/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -391,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anvith33/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
