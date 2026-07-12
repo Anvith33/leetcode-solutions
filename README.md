@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anvith33/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Anvith33/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anvith33/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anvith33/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0093-restore-ip-addresses](https://github.com/Anvith33/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Anvith33/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
 | [0394-decode-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anvith33/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Anvith33/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Anvith33/leetcode-solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Anvith33/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Binary Search Tree
 |  |
