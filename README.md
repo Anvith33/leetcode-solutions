@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anvith33/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Anvith33/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Anvith33/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Anvith33/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Anvith33/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anvith33/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
