@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Anvith33/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anvith33/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Anvith33/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/Anvith33/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
+| [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [0394-decode-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anvith33/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Anvith33/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Anvith33/leetcode-solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Anvith33/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
+| [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Binary Search Tree
 |  |
