@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Anvith33/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1063-number-of-valid-subarrays](https://github.com/Anvith33/leetcode-solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1200-minimum-absolute-difference](https://github.com/Anvith33/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anvith33/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anvith33/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anvith33/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anvith33/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anvith33/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anvith33/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
