@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Anvith33/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0932-beautiful-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Anvith33/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anvith33/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Anvith33/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Anvith33/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [0796-rotate-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Anvith33/leetcode-solutions/tree/master/0831-masking-personal-information) |
 | [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Anvith33/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anvith33/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Anvith33/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [0796-rotate-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Anvith33/leetcode-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anvith33/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 ## Minimum Spanning Tree
 |  |
