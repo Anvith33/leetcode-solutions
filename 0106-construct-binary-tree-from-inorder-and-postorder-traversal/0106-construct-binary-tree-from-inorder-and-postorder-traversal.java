@@ -27,10 +27,10 @@ class Solution {
 
         int index = map.get(value);
 
-        // Build right subtree first
+    
         root.right = build(postorder, index + 1, right);
 
-        // Then left subtree
+      
         root.left = build(postorder, left, index - 1);
 
         return root;
