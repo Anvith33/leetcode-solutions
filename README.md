@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anvith33/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Anvith33/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Anvith33/leetcode-solutions/tree/master/0704-binary-search) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anvith33/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Anvith33/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anvith33/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvith33/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Anvith33/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anvith33/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0932-beautiful-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0932-beautiful-array) |
