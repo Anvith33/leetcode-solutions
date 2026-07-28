@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anvith33/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Anvith33/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anvith33/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Anvith33/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Anvith33/leetcode-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anvith33/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Anvith33/leetcode-solutions/tree/master/0263-ugly-number) |
