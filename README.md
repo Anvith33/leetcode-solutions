@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Anvith33/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anvith33/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Anvith33/leetcode-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anvith33/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1199-minimum-time-to-build-blocks](https://github.com/Anvith33/leetcode-solutions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anvith33/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anvith33/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Anvith33/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
