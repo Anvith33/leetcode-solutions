@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anvith33/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Anvith33/leetcode-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anvith33/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anvith33/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Anvith33/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anvith33/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Anvith33/leetcode-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anvith33/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anvith33/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Anvith33/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Anvith33/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
