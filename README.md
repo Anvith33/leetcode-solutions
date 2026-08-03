@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anvith33/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anvith33/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Anvith33/leetcode-solutions/tree/master/2345-finding-the-number-of-visible-mountains) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anvith33/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Anvith33/leetcode-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Anvith33/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Anvith33/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Anvith33/leetcode-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anvith33/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
