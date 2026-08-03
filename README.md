@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Anvith33/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Anvith33/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Anvith33/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Anvith33/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0687-longest-univalue-path](https://github.com/Anvith33/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anvith33/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Game Theory
 |  |
