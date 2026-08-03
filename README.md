@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anvith33/leetcode-solutions/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anvith33/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anvith33/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anvith33/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anvith33/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
