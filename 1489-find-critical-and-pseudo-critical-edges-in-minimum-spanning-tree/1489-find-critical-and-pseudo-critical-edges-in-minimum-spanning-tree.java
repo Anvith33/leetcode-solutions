@@ -1,98 +1,76 @@
-import java.util.*;
+class UnionFind {
+    private int[] parent;
+
+    public UnionFind(int n) {
+        parent = new int[n];
+        for (int i = 0; i < n; i++)
+            parent[i] = i;
+    }
+
+    public int findParent(int p) {
+        return parent[p] == p ? p : (parent[p] = findParent(parent[p]));
+    }
+
+    public void union(int u, int v) {
+        int pu = findParent(u), pv = findParent(v);
+        parent[pu] = pv;
+    }
+}
 
 class Solution {
     public List<List<Integer>> findCriticalAndPseudoCriticalEdges(int n, int[][] edges) {
-        int m = edges.length;
-        int[][] indexedEdges = new int[m][4];
-        for (int i = 0; i < m; i++) {
-            indexedEdges[i] = new int[]{edges[i][0], edges[i][1], edges[i][2], i};
-        }
-        
-        Arrays.sort(indexedEdges, (a, b) -> a[2] - b[2]);
-        
-        int baseWeight = kruskal(n, indexedEdges, -1, -1);
-        
         List<Integer> critical = new ArrayList<>();
         List<Integer> pseudoCritical = new ArrayList<>();
         
-        for (int i = 0; i < m; i++) {
-            int originalIndex = indexedEdges[i][3];
-            
-        
-            int weightExcluded = kruskal(n, indexedEdges, i, -1);
-            if (weightExcluded > baseWeight || weightExcluded == -1) {
-                critical.add(originalIndex);
-                continue;
-            }
-            
-          
-            int weightIncluded = kruskal(n, indexedEdges, -1, i);
-            if (weightIncluded == baseWeight) {
-                pseudoCritical.add(originalIndex);
-            }
+        for (int i = 0; i < edges.length; i++) {
+            int[] edge = edges[i];
+            edge = Arrays.copyOf(edge, edge.length + 1);
+            edge[3] = i;
+            edges[i] = edge;
         }
         
+        Arrays.sort(edges, (a, b) -> Integer.compare(a[2], b[2]));
+
+        int mstwt = findMST(n, edges, -1, -1);
+
+        for (int i = 0; i < edges.length; i++) {
+            if (mstwt < findMST(n, edges, i, -1))
+                critical.add(edges[i][3]);
+            else if (mstwt == findMST(n, edges, -1, i))
+                pseudoCritical.add(edges[i][3]);
+        }
+
         List<List<Integer>> result = new ArrayList<>();
         result.add(critical);
         result.add(pseudoCritical);
         return result;
     }
 
-    private int kruskal(int n, int[][] edges, int skipIdx, int forceIdx) {
+    private int findMST(int n, int[][] edges, int block, int e) {
         UnionFind uf = new UnionFind(n);
         int weight = 0;
-        int edgeCount = 0;
-        
-        if (forceIdx != -1) {
-            uf.union(edges[forceIdx][0], edges[forceIdx][1]);
-            weight += edges[forceIdx][2];
-            edgeCount++;
+
+        if (e != -1) {
+            weight += edges[e][2];
+            uf.union(edges[e][0], edges[e][1]);
         }
-        
+
         for (int i = 0; i < edges.length; i++) {
-            if (i == skipIdx || i == forceIdx) {
+            if (i == block)
                 continue;
-            }
-            
-            int u = edges[i][0], v = edges[i][1], w = edges[i][2];
-            if (uf.union(u, v)) {
-                weight += w;
-                edgeCount++;
-            }
+
+            if (uf.findParent(edges[i][0]) == uf.findParent(edges[i][1]))
+                continue;
+
+            uf.union(edges[i][0], edges[i][1]);
+            weight += edges[i][2];
         }
-        
-        return (edgeCount == n - 1) ? weight : -1;
-    }
-    
-    class UnionFind {
-        int[] parent, rank;
-        
-        UnionFind(int n) {
-            parent = new int[n];
-            rank = new int[n];
-            for (int i = 0; i < n; i++) {
-                parent[i] = i;
-            }
+
+        for (int i = 0; i < n; i++) {
+            if (uf.findParent(i) != uf.findParent(0))
+                return Integer.MAX_VALUE;
         }
-        
-        int find(int x) {
-            if (parent[x] != x) {
-                parent[x] = find(parent[x]);
-            }
-            return parent[x];
-        }
-        
-        boolean union(int x, int y) {
-            int rootX = find(x), rootY = find(y);
-            if (rootX == rootY) return false;
-            
-            if (rank[rootX] < rank[rootY]) {
-                int temp = rootX; rootX = rootY; rootY = temp;
-            }
-            parent[rootY] = rootX;
-            if (rank[rootX] == rank[rootY]) rank[rootX]++;
-            
-            return true;
-        }
+
+        return weight;
     }
 }
