@@ -1,61 +1,48 @@
-import java.util.*;
-
 class StreamChecker {
-    class TrieNode {
-        TrieNode[] children = new TrieNode[26];
-        boolean isEnd = false;
+
+    class TrieNode{
+        boolean isWord;
+        TrieNode children[] = new TrieNode[26];
     }
     
-    private TrieNode root;
-    private StringBuilder streamBuffer;
-    private int maxWordLength;
+    TrieNode root = new TrieNode();
+    int maxSize;
+    StringBuilder sb = new StringBuilder();
     
     public StreamChecker(String[] words) {
-        root = new TrieNode();
-        maxWordLength = 0;
-        
-        for (String word : words) {
-            maxWordLength = Math.max(maxWordLength, word.length());
-            insertReversed(word);
-        }
-        
-        streamBuffer = new StringBuilder();
-    }
-    
-    private void insertReversed(String word) {
-        TrieNode curr = root;
-        for (int i = word.length() - 1; i >= 0; i--) {
-            int idx = word.charAt(i) - 'a';
-            if (curr.children[idx] == null) {
-                curr.children[idx] = new TrieNode();
-            }
-            curr = curr.children[idx];
-        }
-        curr.isEnd = true;
+        insert(words);
     }
     
     public boolean query(char letter) {
-        streamBuffer.append(letter);
-        
-   
-        if (streamBuffer.length() > maxWordLength) {
-            streamBuffer.delete(0, streamBuffer.length() - maxWordLength);
+        if(sb.length()>=maxSize){
+            sb.deleteCharAt(0);
         }
-        
+        sb.append(letter);
         TrieNode curr = root;
-        for (int i = streamBuffer.length() - 1; i >= 0; i--) {
-            int idx = streamBuffer.charAt(i) - 'a';
-            if (curr.children[idx] == null) {
-                return false;
-            }
-            curr = curr.children[idx];
-            if (curr.isEnd) {
-                return true;
-            }
-        }
         
+        for(int i=sb.length()-1;i>=0;i--){
+            char ch = sb.charAt(i);
+            
+            if(curr!=null) curr = curr.children[ch-'a'];
+            
+            if(curr!=null && curr.isWord) return true;
+        }
         return false;
     }
+    
+    public void insert(String[] words){
+        
+        for(String s : words){
+            maxSize = Math.max(maxSize,s.length());
+            TrieNode curr = root;
+            for(int i = s.length()-1;i>=0;i--){
+                char ch = s.charAt(i);
+                if(curr.children[ch-'a']==null){
+                    curr.children[ch-'a'] = new TrieNode();
+                }
+                curr = curr.children[ch-'a'];
+            }
+            curr.isWord = true;
+        }
+    }
 }
-
-
