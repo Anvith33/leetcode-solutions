@@ -682,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/Anvith33/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Anvith33/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
