@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [0815-bus-routes](https://github.com/Anvith33/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Anvith33/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Anvith33/leetcode-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0932-beautiful-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Anvith33/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Anvith33/leetcode-solutions/tree/master/1199-minimum-time-to-build-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
