@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anvith33/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anvith33/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anvith33/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/Anvith33/leetcode-solutions/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anvith33/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Anvith33/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Anvith33/leetcode-solutions/tree/master/1199-minimum-time-to-build-blocks) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anvith33/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/Anvith33/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anvith33/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anvith33/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -692,16 +697,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
