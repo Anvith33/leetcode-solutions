@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anvith33/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anvith33/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Anvith33/leetcode-solutions/tree/master/2345-finding-the-number-of-visible-mountains) |
+| [2906-construct-product-matrix](https://github.com/Anvith33/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anvith33/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anvith33/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anvith33/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anvith33/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Anvith33/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [2906-construct-product-matrix](https://github.com/Anvith33/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anvith33/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anvith33/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Anvith33/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [2906-construct-product-matrix](https://github.com/Anvith33/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anvith33/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Game Theory
 |  |
