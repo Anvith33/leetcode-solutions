@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Anvith33/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Anvith33/leetcode-solutions/tree/master/1762-buildings-with-an-ocean-view) |
 | [1765-map-of-highest-peak](https://github.com/Anvith33/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anvith33/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anvith33/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anvith33/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anvith33/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anvith33/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Anvith33/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Anvith33/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anvith33/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/Anvith33/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2906-construct-product-matrix](https://github.com/Anvith33/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anvith33/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anvith33/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Anvith33/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Prime Factorization
@@ -723,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -730,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anvith33/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anvith33/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Anvith33/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anvith33/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
