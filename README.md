@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Anvith33/leetcode-solutions/tree/master/2345-finding-the-number-of-visible-mountains) |
 | [2906-construct-product-matrix](https://github.com/Anvith33/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anvith33/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anvith33/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anvith33/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anvith33/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anvith33/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Anvith33/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anvith33/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Anvith33/leetcode-solutions/tree/master/2345-finding-the-number-of-visible-mountains) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anvith33/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anvith33/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anvith33/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-process-restricted-friend-requests](https://github.com/Anvith33/leetcode-solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anvith33/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anvith33/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anvith33/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Queue
 |  |
 | ------- |
