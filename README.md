@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anvith33/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0758-bold-words-in-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0758-bold-words-in-string) |
 | [0815-bus-routes](https://github.com/Anvith33/leetcode-solutions/tree/master/0815-bus-routes) |
+| [0835-image-overlap](https://github.com/Anvith33/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Anvith33/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Anvith33/leetcode-solutions/tree/master/0877-stone-game) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0835-image-overlap](https://github.com/Anvith33/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Anvith33/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2906-construct-product-matrix](https://github.com/Anvith33/leetcode-solutions/tree/master/2906-construct-product-matrix) |
