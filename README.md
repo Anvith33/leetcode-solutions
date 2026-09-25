@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Anvith33/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anvith33/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Anvith33/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1257-smallest-common-region](https://github.com/Anvith33/leetcode-solutions/tree/master/1257-smallest-common-region) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anvith33/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anvith33/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/Anvith33/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Anvith33/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anvith33/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Anvith33/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Anvith33/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1063-number-of-valid-subarrays](https://github.com/Anvith33/leetcode-solutions/tree/master/1063-number-of-valid-subarrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anvith33/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anvith33/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anvith33/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Anvith33/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Anvith33/leetcode-solutions/tree/master/0815-bus-routes) |
+| [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Anvith33/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1257-smallest-common-region](https://github.com/Anvith33/leetcode-solutions/tree/master/1257-smallest-common-region) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anvith33/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1032-stream-of-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1257-smallest-common-region](https://github.com/Anvith33/leetcode-solutions/tree/master/1257-smallest-common-region) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Anvith33/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
@@ -676,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Anvith33/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
