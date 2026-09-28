@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anvith33/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anvith33/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anvith33/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1762-buildings-with-an-ocean-view](https://github.com/Anvith33/leetcode-solutions/tree/master/1762-buildings-with-an-ocean-view) |
 | [2345-finding-the-number-of-visible-mountains](https://github.com/Anvith33/leetcode-solutions/tree/master/2345-finding-the-number-of-visible-mountains) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anvith33/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anvith33/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1554-strings-differ-by-one-character](https://github.com/Anvith33/leetcode-solutions/tree/master/1554-strings-differ-by-one-character) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anvith33/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Anvith33/leetcode-solutions/tree/master/1927-sum-game) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/Anvith33/leetcode-solutions/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
@@ -871,4 +873,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
