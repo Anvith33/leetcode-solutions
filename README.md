@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/Anvith33/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Anvith33/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Anvith33/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [0394-decode-string](https://github.com/Anvith33/leetcode-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anvith33/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Anvith33/leetcode-solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Anvith33/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0291-word-pattern-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/0291-word-pattern-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Anvith33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0320-generalized-abbreviation](https://github.com/Anvith33/leetcode-solutions/tree/master/0320-generalized-abbreviation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
