@@ -25,9 +25,9 @@ class Solution {
                 else if (a[i] > pivot) swap(a, i, gt--);
                 else i++;
             }
-            if (k < lt) hi = lt - 1;  // the boundary is among the smaller values
+            if (k < lt) hi = lt - 1;  
             else if (k > gt + 1) lo = gt + 1;  // the boundary is among the bigger values
-            else return;  // the boundary falls on the pivot copies: done
+            else return;  
         }
     }
 
