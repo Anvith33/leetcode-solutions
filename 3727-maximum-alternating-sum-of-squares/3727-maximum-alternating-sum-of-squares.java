@@ -9,10 +9,10 @@ class Solution {
             sq[i] = (long) nums[i] * nums[i];
             total += sq[i];
         }
-        select(sq, h);  // quickselect: the smallest half in front, any order
+        select(sq, h);  
         long small = 0;
         for (int i = 0; i < h; i++) small += sq[i];
-        return total - 2 * small;  // add everything, then flip the smallest half to minus
+        return total - 2 * small;  
     }
 
     private void select(long[] a, int k) {  
