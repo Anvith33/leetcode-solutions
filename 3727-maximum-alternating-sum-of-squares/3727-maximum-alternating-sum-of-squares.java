@@ -15,7 +15,7 @@ class Solution {
         return total - 2 * small;  // add everything, then flip the smallest half to minus
     }
 
-    private void select(long[] a, int k) {  // put the k smallest values in a[0..k), like C++ nth_element
+    private void select(long[] a, int k) {  
         int lo = 0, hi = a.length - 1;
         while (lo < hi) {
             long pivot = a[lo + random.nextInt(hi - lo + 1)];
