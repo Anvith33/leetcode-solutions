@@ -19,14 +19,14 @@ class Solution {
         int lo = 0, hi = a.length - 1;
         while (lo < hi) {
             long pivot = a[lo + random.nextInt(hi - lo + 1)];
-            int lt = lo, i = lo, gt = hi;  // a[lo..lt) < pivot, a[lt..i) == pivot, a(gt..hi] > pivot
+            int lt = lo, i = lo, gt = hi;  
             while (i <= gt) {
                 if (a[i] < pivot) swap(a, lt++, i++);
                 else if (a[i] > pivot) swap(a, i, gt--);
                 else i++;
             }
             if (k < lt) hi = lt - 1;  
-            else if (k > gt + 1) lo = gt + 1;  // the boundary is among the bigger values
+            else if (k > gt + 1) lo = gt + 1;  
             else return;  
         }
     }
