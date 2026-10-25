@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1199-minimum-time-to-build-blocks](https://github.com/Anvith33/leetcode-solutions/tree/master/1199-minimum-time-to-build-blocks) |
 | [1200-minimum-absolute-difference](https://github.com/Anvith33/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/Anvith33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/Anvith33/leetcode-solutions/tree/master/1257-smallest-common-region) |
 | [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anvith33/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Anvith33/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/Anvith33/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anvith33/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/Anvith33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/Anvith33/leetcode-solutions/tree/master/1257-smallest-common-region) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anvith33/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Anvith33/leetcode-solutions/tree/master/0815-bus-routes) |
 | [1096-brace-expansion-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Anvith33/leetcode-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1254-number-of-closed-islands](https://github.com/Anvith33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1257-smallest-common-region](https://github.com/Anvith33/leetcode-solutions/tree/master/1257-smallest-common-region) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Anvith33/leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Anvith33/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Anvith33/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anvith33/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anvith33/leetcode-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1254-number-of-closed-islands](https://github.com/Anvith33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anvith33/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Anvith33/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anvith33/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Anvith33/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Anvith33/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Anvith33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anvith33/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Anvith33/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anvith33/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
