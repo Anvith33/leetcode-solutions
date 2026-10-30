@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Anvith33/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anvith33/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anvith33/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anvith33/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Anvith33/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anvith33/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anvith33/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anvith33/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anvith33/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anvith33/leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anvith33/leetcode-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anvith33/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
